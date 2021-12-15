@@ -1,0 +1,17 @@
+{
+    "name": "@niyoel/card",
+    "version": "1.0.0",
+    "description": "my business card",
+    "main": "card.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Ellen Niyobuhungiro",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "npx": "^10.2.2",
+        "npxcard": "^0.1.0"
+    }
+}
