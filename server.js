@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const color = require('color');
+// const color = require('color');
 const express = require('express');
 const server = express();
 server.get('/', function(req, res) {

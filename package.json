@@ -10,6 +10,7 @@
     "author": "Ellen Niyobuhungiro",
     "license": "ISC",
     "dependencies": {
+        "country-list": "^2.2.0",
         "express": "^4.17.1",
         "npx": "^10.2.2",
         "npxcard": "^0.1.0"
